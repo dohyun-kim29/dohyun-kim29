@@ -18,16 +18,16 @@
 
 📁 **Interested Library**
 
-	- RxSwift
-	- RxAlamofire
-	- Lottie
+  - RxSwift
+  - RxAlamofire
+  - Lottie
 
 
 
 📃 **Intersted Architecture Pattern**
 
-	- MVVM
-	- ReactorKit
+  - MVVM
+  - ReactorKit
 
 
 
