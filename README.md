@@ -3,6 +3,7 @@
 🛠 **Programming Language**
 
  - Swift
+ - Python
 
    
 
@@ -21,6 +22,8 @@
   - RxSwift
   - RxAlamofire
   - SwiftUI
+  - Kitura
+  - Moya
 
 
 
